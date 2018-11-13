@@ -18,7 +18,7 @@ def preBuild(type):
     #chmod
     os.system('chmod +x gradlew')
     os.system('chmod +x build.py')
-    os.system('chmod +x mk.sh')
+    os.system('chmod +x cp.sh')
 
  
     #prebuild
